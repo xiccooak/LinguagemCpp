@@ -1,5 +1,5 @@
 #include <iostream>
-#include <sting>
+#include <string>
 using std::cout;
 using std::cin;
 using std::string;
